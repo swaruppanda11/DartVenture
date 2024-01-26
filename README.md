@@ -19,4 +19,7 @@ The dart and the dartboard are made using Blender software with precise details.
 1. Implementation of a Score Board in the application UI
 2. Introduce Multiplayer support to the application
 3. Add Login functionality to save the progress of the players
-4. Add more interactive elements to the game U
+4. Add more interactive elements to the game UI
+
+### Note: Please refer the Installation Guide to download the app in your device.
+Link to the app files - https://drive.google.com/file/d/18Uo7beSVjtut_THqaJSvoutDfjbmm733/view?usp=sharing
